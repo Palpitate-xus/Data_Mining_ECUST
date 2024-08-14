@@ -2,7 +2,7 @@
 
 This repository contains the course materials for the Data Mining course at ECUST.
 
-### 项目结构
+### 项目结构:
 #### 关联规则学习算法:
 - [EfficientApriori.py](https://github.com/Palpitate-xus/Data_Mining_ECUST/blob/main/data_mining_ex1/EfficientApriori.py): 包含实现Apriori算法的代码。
 - [Apriori_test1.py](https://github.com/Palpitate-xus/Data_Mining_ECUST/blob/main/data_mining_ex1/Apriori_test1.py): Apriori算法的测试代码。
